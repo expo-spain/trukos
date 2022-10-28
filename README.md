@@ -1,5 +1,11 @@
 # trukos
 
+
+## Abre el simulador
+```
+open -a Simulator
+```
+
 ```
 expo init .
 ```
