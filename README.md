@@ -1,5 +1,8 @@
 # trukos
 
+```
+expo init . --npm
+```
 
 ## Abre el simulador
 ```
