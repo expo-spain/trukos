@@ -13,6 +13,11 @@ open -a Simulator
 expo init .
 ```
 
+Construimos para android
+```
+expo build:android -t apk
+```
+
 ```
 expo build:ios
 ```
